@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:40;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32.2183" y1="32.2183" x2="479.7817" y2="479.7817">
+	<stop  offset="2.877006e-07" style="stop-color:#1F6FEB"/>
+	<stop  offset="1" style="stop-color:#5C2D91"/>
+</linearGradient>
+<path class="st0" d="M110,0h292c60.75,0,110,49.25,110,110v292c0,60.75-49.25,110-110,110H110C49.25,512,0,462.75,0,402V110
+	C0,49.25,49.25,0,110,0z"/>
+<path class="st1" d="M79.93,218.58C100.6,121.34,196.19,59.26,293.42,79.93s159.31,116.25,138.64,213.49"/>
+<path class="st1" d="M83,306c15.42-2.89,38.41-9.64,57-28c27.79-27.45,18.65-54.07,46-85c4.37-4.95,36.02-39.68,79-37
+	c37.85,2.36,70.39,32.85,83,64c15.24,37.66-5.05,60.48,13,103c9.17,21.61,23.28,36.59,34,46"/>
+<path class="st1" d="M259,243c-8.11,20.51-25.48,56.35-61,89c-27.02,24.84-54.43,38.53-73,46"/>
+<path class="st1" d="M192,424c10.46-3.94,26.13-11.07,42-24c33.31-27.14,42.85-59.76,54-57c8.02,1.98,5.11,19.37,19,45
+	c7.28,13.43,16,23.27,23,30"/>
+</svg>
