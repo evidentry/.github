@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/evidentry-logo.svg" width="120" alt="Evidentry Logo" />
+  <img src="https://raw.githubusercontent.com/evidentry/.github/refs/heads/main/evidentry-logo.svg" width="120" alt="Evidentry Logo" />
 </p>
 
 <h1 align="center">Evidentry</h1>
